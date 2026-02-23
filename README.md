@@ -24,8 +24,6 @@
 スクリプトをダウンロードし、実行権限を付与します。
 
 ```bash
-touch inspect_wp.sh
-# (リファクタリング後のスクリプト内容を貼り付け)
 chmod +x inspect_wp.sh
 ```
 
